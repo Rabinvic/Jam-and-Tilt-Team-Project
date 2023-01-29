@@ -1,0 +1,8 @@
+**/*.idea
+**/*.class
+**/target
+**/out
+**/*.zip
+**/hs_err_pid*
+**/replay_pid*
+**/*.log
